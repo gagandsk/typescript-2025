@@ -1,41 +1,41 @@
-# Curso de TypeScript
+# TypeScript 2025
 
-Bienvenido a este curso de **TypeScript**, donde aprenderás desde los fundamentos hasta conceptos avanzados para desarrollar aplicaciones tipadas y escalables con JavaScript.
+_Thursday, March 27, 2025_
 
-## Contenido del Curso
+## Course Content
 
-### 1. Fundamentos de TypeScript
-- ¿Qué es TypeScript y por qué usarlo?
-- Instalación de Node.js y TypeScript CLI, configuración de tsconfig.json
-- Tipos primitivos: string, number, boolean, null, undefined
-- Tipos especiales: any, unknown, never, void
-- Arrays, Tuplas, Enums
+### 1. TypeScript Fundamentals
+- What is TypeScript and why use it?
+- Installing Node.js and TypeScript CLI, configuring tsconfig.json
+- Primitive types: string, number, boolean, null, undefined
+- Special types: any, unknown, never, void
+- Arrays, Tuples, Enums
 
-### 2. Funciones e Interfaces
-- Declaración de funciones, tipado de parámetros y valores de retorno
-- Parámetros opcionales, valores por defecto y sobrecarga de funciones
-- Creación y uso de interfaces
-- Propiedades opcionales, readonly, extensión de interfaces
+### 2. Functions and Interfaces
+- Function declaration, parameter typing, and return values
+- Optional parameters, default values, and function overloading
+- Creating and using interfaces
+- Optional properties, readonly, interface extension
 
-### 3. Clases y Programación Orientada a Objetos
-- Creación de clases y constructores
-- Modificadores de acceso (public, private, protected)
-- Uso de extends, sobreescritura de métodos
-- Introducción a Genéricos
-- Restricciones con extends, genéricos en interfaces
-- Implementación de Decoradores
+### 3. Classes and Object-Oriented Programming
+- Creating classes and constructors
+- Access modifiers (public, private, protected)
+- Using extends, method overriding
+- Introduction to Generics
+- Constraints with extends, generics in interfaces
+- Implementing Decorators
 
-### 4. Módulos y Proyectos
-- Importación y exportación de módulos
-- Agregando archivos de TypeScript a un sitio web
-- Configuración de un proyecto Web con TypeScript
-- Selección de elementos, eventos, tipado en querySelector
-- Crear un proyecto de React.js con TypeScript
-- Crear un proyecto con Angular y TypeScript
-- Crear una API con TypeScript y Express.js
+### 4. Modules and Projects
+- Importing and exporting modules
+- Adding TypeScript files to a website
+- Setting up a Web project with TypeScript
+- Selecting elements, events, typing in querySelector
+- Creating a React.js project with TypeScript
+- Creating an Angular project with TypeScript
+- Creating an API with TypeScript and Express.js
 
-### 5. Conceptos Avanzados
-- Introducción a types en TypeScript
-- Async/await en TypeScript
-- Pruebas unitarias con Jest y TypeScript
-- Principios SOLID, código limpio, patrones de diseño
+### 5. Advanced Concepts
+- Introduction to types in TypeScript
+- Async/await in TypeScript
+- Unit testing with Jest and TypeScript
+- SOLID principles, clean code, design patterns
